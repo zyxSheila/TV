@@ -1,12 +1,7 @@
 更新时间,#genre#
 2024-11-07 18:21:14,url
 📺央视频道,#genre#
-CCTV-1,http://183.66.15.146:60901/tsfile/live/0001_1.m3u8?key=txiptv$订阅源|1920x1080
-CCTV-1,http://123.182.60.29:9002/hls/1/index.m3u8$订阅源
-CCTV-1,http://vod.hnqczh.cn:808/hls/9/index.m3u8$订阅源
-CCTV-1,http://117.72.68.25:9930/migu.php?id=cctv1$订阅源
-CCTV-1,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-1,http://116.117.105.198:8096/tsfile/live/0001_1.m3u8$订阅源
+CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-2,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-2,http://139.196.151.191:5215/rtp/239.45.1.109:5140$上海电信组播源
 CCTV-2,http://120.55.49.231:8617/rtp/233.50.201.119:5140$组播源
